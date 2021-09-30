@@ -3,11 +3,11 @@ Facial Keypoint Detection with PyTorch
 
 ## The project structure:
 
-config.py
-dataset.py
-model.py
-utils.py
-face_keypoints.ipynb - the main file to train the model.
+  1. config.py
+  2. dataset.py
+  3. model.py
+  4. utils.py
+  5. face_keypoints.ipynb - the main file to train the model.
 
 ### Model
 A pre-trained ResNet50 was used as a baseline. The increase the quality the are several additional opportunities:
